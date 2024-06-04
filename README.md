@@ -7,6 +7,7 @@
 - 📚 Estoy cursando una Ingeniería en Sistemas de Información en la UTN.
 - 🖥️ Actualmente me encuentro aprendiendo el framework Angular.
  <br>
+ 
 ## Herramientas que uso para desarrollar:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&&logo=javascript&logoColor=F7DF1E)
