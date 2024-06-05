@@ -3,8 +3,8 @@
 # ¡Hola, soy Luciano! 🙋‍♂️
 
 #### Sobre mí: 
-- 🌆 Soy de Villaguay, Entre Ríos 🇦🇷.
-- 📚 Estoy cursando Ingeniería en Sistemas de Información en la UTN.
+- 🌆 Entrerriano 🇦🇷.
+- 📚 Cursando una Ingeniería en Sistemas de Información en la UTN.
 - 🖥️ Actualmente me encuentro aprendiendo el framework Angular.
   
 ## Herramientas con las que desarrollo:
