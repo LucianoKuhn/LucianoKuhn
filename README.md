@@ -3,7 +3,7 @@
 # ¡Hola, soy Luciano! 🙋‍♂️
 
 #### Sobre mí: 
-- 🌆 Entrerriano 🇦🇷.
+- 🇦🇷 Entrerriano.
 - 📚 Cursando una Ingeniería en Sistemas de Información en la UTN.
 - 🖥️ Actualmente me encuentro aprendiendo el framework Angular.
   
