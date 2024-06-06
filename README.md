@@ -3,9 +3,9 @@
 # ¡Hola, soy Luciano! 🙋‍♂️
 
 #### Sobre mí: 
-- 🇦🇷 Entrerriano.
+- 🧉 Entrerriano.
 - 📚 Cursando una Ingeniería en Sistemas de Información en la UTN.
-- 🖥️ Actualmente me encuentro aprendiendo el framework Angular.
+- ⌨️ Actualmente me encuentro aprendiendo el framework Angular.
   
 ## Herramientas con las que desarrollo:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
