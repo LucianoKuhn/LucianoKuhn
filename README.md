@@ -15,4 +15,4 @@
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 
 ### 💬 ¿Quieres contactarme?
->> lucianokuhn31@gmail.com
+lucianokuhn31@gmail.com
