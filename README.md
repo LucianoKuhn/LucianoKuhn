@@ -14,5 +14,3 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 
-### 💬 ¿Quieres contactarme?
-lucianokuhn31@gmail.com
